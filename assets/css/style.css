@@ -1,0 +1,42 @@
+.heading{
+    color: white;
+    background-color: black;
+}
+.detail{
+    color: white;
+    background-color: blue;
+}
+.concentration{
+    color: white;
+    background-color: blue;
+}
+.heading{
+    text-align: center;
+}
+.detail{
+    text-align: center;
+}
+.concentration{
+    text-align: center;
+}
+.about{
+    color: white;
+    background-color: blue;
+}
+.skills{
+    color: white;
+    background-color: blue;
+}
+.specialties{
+    color: white;
+    background-color: blue;
+}
+.about{
+    text-align: center;
+}
+.skills{
+    text-align: center;
+}
+.specialties{
+    text-align: center;
+}
